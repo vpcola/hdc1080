@@ -1,1 +1,1 @@
-"# HDC1080" 
+# HDC1080 ESP-IDF Component
